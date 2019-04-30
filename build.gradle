@@ -17,3 +17,8 @@ task runScriptCreateGroup (dependsOn: 'classes', type: JavaExec) {
     main = 'CreateGroupWithImage'
     classpath = sourceSets.main.runtimeClasspath
 }
+
+task runScriptInstantiateProcess (dependsOn: 'classes', type: JavaExec) {
+    main = 'InstantiateProcess'
+    classpath = sourceSets.main.runtimeClasspath
+}
