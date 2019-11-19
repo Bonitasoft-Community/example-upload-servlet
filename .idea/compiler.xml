@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="example-upload-rest-api-extension_main" target="1.8" />
       <module name="example-upload-rest-api-extension_test" target="1.8" />
+      <module name="example-upload-servlet.main" target="1.8" />
+      <module name="example-upload-servlet.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

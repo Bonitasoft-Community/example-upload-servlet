@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-upload-rest-api-extension.iml" filepath="$PROJECT_DIR$/.idea/modules/example-upload-rest-api-extension.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-upload-rest-api-extension_main.iml" filepath="$PROJECT_DIR$/.idea/modules/example-upload-rest-api-extension_main.iml" group="example-upload-rest-api-extension" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-upload-rest-api-extension_test.iml" filepath="$PROJECT_DIR$/.idea/modules/example-upload-rest-api-extension_test.iml" group="example-upload-rest-api-extension" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-upload-servlet.iml" filepath="$PROJECT_DIR$/.idea/modules/example-upload-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-upload-servlet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/example-upload-servlet.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-upload-servlet.test.iml" filepath="$PROJECT_DIR$/.idea/modules/example-upload-servlet.test.iml" />
     </modules>
   </component>
 </project>
